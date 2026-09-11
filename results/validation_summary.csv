@@ -1,0 +1,9 @@
+Metric,Value
+Training dataset unique rows,918.0
+UCI evaluation rows,303.0
+Exact overlapping rows,303.0
+External accuracy,0.9735973597359736
+External precision,0.9712230215827338
+External recall,0.9712230215827338
+External F1,0.9712230215827338
+External ROC-AUC,0.9862475872960169
